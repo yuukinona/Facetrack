@@ -1,0 +1,30 @@
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\bin\x86\Debug\FaceTrack.exe.config
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\bin\x86\Debug\FaceTrack.exe
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\bin\x86\Debug\FaceTrack.pdb
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\MainWindow.baml
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\App.g.cs
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack_MarkupCompile.cache
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack.g.resources
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack.exe
+C:\Users\Lab\Documents\Visual Studio 2013\Projects\FaceTrack\FaceTrack\obj\x86\Debug\FaceTrack.pdb
+C:\Users\Yang\Documents\Facetrack\FaceTrack\bin\x86\Debug\FaceTrack.exe.config
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack.exe
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack.pdb
+C:\Users\Yang\Documents\Facetrack\FaceTrack\bin\x86\Debug\FaceTrack.exe
+C:\Users\Yang\Documents\Facetrack\FaceTrack\bin\x86\Debug\FaceTrack.pdb
+C:\Users\Yang\Documents\Facetrack\FaceTrack\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Yang\Documents\Facetrack\FaceTrack\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack.csprojResolveAssemblyReference.cache
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\MainWindow.baml
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\App.g.cs
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack_MarkupCompile.cache
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack.g.resources
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack.Properties.Resources.resources
+C:\Users\Yang\Documents\Facetrack\FaceTrack\obj\x86\Debug\FaceTrack.csproj.GenerateResource.Cache

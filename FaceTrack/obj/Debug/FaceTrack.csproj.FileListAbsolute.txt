@@ -1,0 +1,17 @@
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\FaceTrack.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\FaceTrack.exe
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\FaceTrack.pdb
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\Microsoft.Kinect.dll
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\Microsoft.Kinect.Face.dll
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\Microsoft.Kinect.xml
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\bin\Debug\Microsoft.Kinect.Face.xml
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\MainWindow.baml
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\MainWindow.g.cs
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\App.g.cs
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack_MarkupCompile.cache
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack.g.resources
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack.exe
+c:\users\lab\documents\visual studio 2013\Projects\FaceTrack\FaceTrack\obj\Debug\FaceTrack.pdb
